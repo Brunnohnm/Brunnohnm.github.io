@@ -1,0 +1,1 @@
+Esse site oferece frases motivacionais do livro 'A Última Grande Lição', convidando os usuários a refletir sobre ensinamentos profundos e inspiradores. Explore uma jornada de introspecção e descoberta, encontrando sabedoria e inspiração para uma vida mais significativa.
