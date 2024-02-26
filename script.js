@@ -97,6 +97,26 @@ document.getElementById('generateLesson').addEventListener('click', function() {
             explanation: "Viver de maneira simples nos ajuda a focar no que realmente importa. Este ensinamento nos encoraja a descomplicar nossa vida, encontrando alegria nas coisas mais básicas."
         },
         {
+            lesson: "Colocamos os nossos valores em coisas erradas. Isso leva a uma vida de desilusões.",
+            explanation: "Essa frase nos lembra de reavaliar onde estamos colocando nossos esforços e valores. A verdadeira satisfação vem de dentro e das relações humanas, não de posses materiais."
+        },
+         {
+            lesson: "Pessoas não encontraram sentido na vida por isso correm o tempo todo procurando-o.",
+            explanation: "A busca incessante por algo externo para preencher o vazio interno é infrutífera. Devemos buscar o sentido da vida dentro de nós mesmos e nas nossas conexões com os outros."
+        },
+         {
+            lesson: "E se hoje fosse o meu último dia na Terra?",
+            explanation: "Esta pergunta nos lembra de viver cada dia como se fosse o último, priorizando o que realmente importa e não deixando para depois o que é essencial."
+        },
+         {
+            lesson: "Quando se aprende a morrer, aprende-se a viver.",
+            explanation: "Entender e aceitar nossa mortalidade pode nos ensinar a valorizar cada momento e viver uma vida mais rica e plena."
+        },
+         {
+            lesson: "Estar morrendo é apenas uma circunstância triste. Viver infeliz é diferente.",
+            explanation: "A verdadeira tragédia não é a morte, mas viver uma vida sem felicidade ou significado."
+        },
+        {
             lesson: "Deixe seu legado de amor.",
             explanation: " O maior legado que podemos deixar é o amor. Este ensinamento nos inspira a viver de forma que nossas ações e palavras deixem uma marca positiva nos outros, perpetuando o ciclo do amor."
         }
